@@ -1,0 +1,128 @@
+['Hong', 'Kong']
+TanEeLyn
+	File: ./C50/C50train/TanEeLyn/186184newsML.txt
+	Score: 0.156681072699
+ScottHillis
+	File: ./C50/C50train/ScottHillis/136771newsML.txt
+	Score: 0.140353877122
+ScottHillis
+	File: ./C50/C50train/ScottHillis/136805newsML.txt
+	Score: 0.137711235134
+PeterHumphrey
+	File: ./C50/C50train/PeterHumphrey/232735newsML.txt
+	Score: 0.124792937145
+TanEeLyn
+	File: ./C50/C50train/TanEeLyn/246306newsML.txt
+	Score: 0.120572530789
+JimGilchrist
+	File: ./C50/C50train/JimGilchrist/140355newsML.txt
+	Score: 0.116400131796
+PeterHumphrey
+	File: ./C50/C50train/PeterHumphrey/158626newsML.txt
+	Score: 0.114519863221
+ScottHillis
+	File: ./C50/C50train/ScottHillis/123507newsML.txt
+	Score: 0.110917226161
+TanEeLyn
+	File: ./C50/C50train/TanEeLyn/264108newsML.txt
+	Score: 0.107556973303
+JimGilchrist
+	File: ./C50/C50train/JimGilchrist/133484newsML.txt
+	Score: 0.106551627135
+
+['technology']
+KirstinRidley
+	File: ./C50/C50train/KirstinRidley/294355newsML.txt
+	Score: 0.0388465333869
+SamuelPerry
+	File: ./C50/C50train/SamuelPerry/134566newsML.txt
+	Score: 0.0341961464287
+EricAuchard
+	File: ./C50/C50train/EricAuchard/227670newsML.txt
+	Score: 0.0338421490536
+SamuelPerry
+	File: ./C50/C50train/SamuelPerry/293806newsML.txt
+	Score: 0.0331221033291
+SamuelPerry
+	File: ./C50/C50train/SamuelPerry/193298newsML.txt
+	Score: 0.0315023040094
+EricAuchard
+	File: ./C50/C50train/EricAuchard/172851newsML.txt
+	Score: 0.0282472776375
+EricAuchard
+	File: ./C50/C50train/EricAuchard/175415newsML.txt
+	Score: 0.0281904420688
+EricAuchard
+	File: ./C50/C50train/EricAuchard/183828newsML.txt
+	Score: 0.0279467746839
+EricAuchard
+	File: ./C50/C50train/EricAuchard/151452newsML.txt
+	Score: 0.0241443988078
+KouroshKarimkhany
+	File: ./C50/C50train/KouroshKarimkhany/172988newsML.txt
+	Score: 0.0240732812856
+
+['government']
+HeatherScoffield
+	File: ./C50/C50train/HeatherScoffield/258231newsML.txt
+	Score: 0.0252157734237
+BernardHickey
+	File: ./C50/C50train/BernardHickey/294952newsML.txt
+	Score: 0.0249446360751
+MarcelMichelson
+	File: ./C50/C50train/MarcelMichelson/150780newsML.txt
+	Score: 0.0224140208211
+BenjaminKangLim
+	File: ./C50/C50train/BenjaminKangLim/186173newsML.txt
+	Score: 0.019707473404
+FumikoFujisaki
+	File: ./C50/C50train/FumikoFujisaki/114292newsML.txt
+	Score: 0.0191610124895
+FumikoFujisaki
+	File: ./C50/C50train/FumikoFujisaki/392201newsML.txt
+	Score: 0.017772468198
+SarahDavison
+	File: ./C50/C50train/SarahDavison/317452newsML.txt
+	Score: 0.0177060290645
+KarlPenhaul
+	File: ./C50/C50train/KarlPenhaul/243366newsML.txt
+	Score: 0.017574629962
+WilliamKazer
+	File: ./C50/C50train/WilliamKazer/2430newsML.txt
+	Score: 0.017483805001
+JaneMacartney
+	File: ./C50/C50train/JaneMacartney/280467newsML.txt
+	Score: 0.0167067470009
+
+['human', 'right']
+ScottHillis
+	File: ./C50/C50train/ScottHillis/295992newsML.txt
+	Score: 0.0753146807729
+MureDickie
+	File: ./C50/C50train/MureDickie/158417newsML.txt
+	Score: 0.0540790336047
+KarlPenhaul
+	File: ./C50/C50train/KarlPenhaul/217081newsML.txt
+	Score: 0.0422684432909
+BenjaminKangLim
+	File: ./C50/C50train/BenjaminKangLim/145736newsML.txt
+	Score: 0.0386176163793
+MureDickie
+	File: ./C50/C50train/MureDickie/156653newsML.txt
+	Score: 0.0385207674377
+MureDickie
+	File: ./C50/C50train/MureDickie/199837newsML.txt
+	Score: 0.0383843160696
+MureDickie
+	File: ./C50/C50train/MureDickie/214186newsML.txt
+	Score: 0.0377885506317
+JohnMastrini
+	File: ./C50/C50train/JohnMastrini/156033newsML.txt
+	Score: 0.037178526036
+JohnMastrini
+	File: ./C50/C50train/JohnMastrini/156301newsML.txt
+	Score: 0.0350671529524
+BenjaminKangLim
+	File: ./C50/C50train/BenjaminKangLim/192394newsML.txt
+	Score: 0.034360153901
+

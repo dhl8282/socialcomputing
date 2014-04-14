@@ -1,0 +1,7 @@
+Words in clust which contains word google
+['music', 'example', 'gaming', 'easier', 'service', 'release', 'result', 'player', 'support', 'devices', 'developers', 'push', 'sign', 'data', 'drive', 'complete', 'device', 'action', 'play', 'see', 'currently', 'receive', 'using', 'continue', 'existing', 'tools', 'latest', 'system', 'hardware', 'android', 'details', 'phones', 'total', 'order', 'com', 'update', 'p', 'change', 'use', 'tablets', 'ready', 'used', 'user', 'game', 'run', 'cloud', 'based', 'changes', 'key',
+'library', 'previously', 'across', 'features', 'manager', 'performance', 'track', 'running', 'users', 'videos', 'u', 'further', 'services', 'google', 'per', 'must', 'join', 'games', 'focus', 'level', 'name', 'version', 'higher', 'lower', 'message', 'app', 'gain', 'available', 'apps']
+
+Words in clust which contains word apple
+['second', 'reports', 'previous', 'possible', 'inside', 'later', 'current', 'saw', 'full', 'via', 'recent', 'line', 'led', 'office', 'wi', 'air', 'shows', 'begin', 'ahead', 'fi', 'launch', 'within', 'similar', 'e', 'products', 'control', 'x', 'surface', 'display', 'samsung', 'room', 'off', 'near', 'digital', 'switch', 'according', 'fall', 'apple', 'chief', 'ipad', 'ios', 'center', 'works', 'original', 'patent', 'top', 'several', 'judge', 'class', 'iphone', 'feature',
+'white', 'pro', 'blog', 'options', 'store', 'c', 'include', 'united', 'april', 'book']
